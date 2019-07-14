@@ -1,5 +1,7 @@
 
-# Created by https://www.gitignore.io/api/ansible,visualstudiocode
+# Created by https://www.gitignore.io/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 data/*
 output/*
 
