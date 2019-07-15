@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/
 .ipynb_checkpoints/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
 data/*
 output/*
 
