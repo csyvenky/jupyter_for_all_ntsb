@@ -1,0 +1,9 @@
+name: jupyter_for_ntsb
+channels:
+  - defaults
+dependencies:
+  - python=3.8.2
+  - jupyterlab=1.2.6
+  - pandas=1.0.3
+  - urllib3=1.25.8
+  - seaborn=0.10.0
